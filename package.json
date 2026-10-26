@@ -1,0 +1,1 @@
+{"description":"Node.js wrapper that downloads Xray on start and proxies VLESS over WebSocket","engines":{"node":"22"},"license":"MIT","main":"server.js","name":"velixir-xray-node","scripts":{"start":"node server.js"},"version":"1.0.0"}
